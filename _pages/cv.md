@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -30,17 +30,20 @@ Work experience
 * Fall 2020: Teaching assistance
   * University of Tehran
   * Duties included: Teaching basic concepts of physics at a university and designing and solving sample questions in class
-  * Supervisor: Professor Maryam Zoghi
+  * Supervisor: Dr. Maryam Zoghi
   
 Skills
 ======
 * Languages
   * Persian - Native
   * English - Second language
+
 * Programming
   * Matlab
   * Python
   * Arduino
+  * EES
+
 * Engineering Tools
   * Solidworks
   * Comsol
@@ -48,6 +51,7 @@ Skills
   * Altair Hypermesh
   * Ansys
   * Proteus
+  * MSC Adams
 
 Honors and awards
 ======
