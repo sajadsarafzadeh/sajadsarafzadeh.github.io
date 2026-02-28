@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Education
+layout: archive
+title: "Education"
 permalink: /education/
 author_profile: true
 ---
@@ -17,7 +17,8 @@ author_profile: true
 
 ### Bachelor of Science in Mechanical Engineering
 **University of Tehran, Iran**  
-**2019 – 2023**
+**2019 – 2024**
+GPA: **17.08 / 20**
 
 ---
 
