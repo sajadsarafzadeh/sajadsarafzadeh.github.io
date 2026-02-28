@@ -46,7 +46,8 @@ Work experience
 
 <br>
 ---
-
+Skills
+------
 Skills
 ======
 * Languages
@@ -70,8 +71,9 @@ Skills
 
 <br>
 ---
-
-Honors and awards
+Honors and Awards
+------
+Honors and Awards
 ======
 * **Ranked 266th** among approximately 250,000 participants in the Iranian National University Entrance Exam for Undergraduate Studies (Top 0.1%).
 * **Ranked 58th** among approximately 10,000 participants in the Iranian National Graduate Entrance Exam for Mechanical Engineering (Top 0.6%).
@@ -79,19 +81,8 @@ Honors and awards
 <br>
 ---
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-<br>
----
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
+Relevant Coursework
+------
 Relevant Coursework
 ======
 
