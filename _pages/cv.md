@@ -17,20 +17,20 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Internship
+  * S.K.C Company
+  * Duties included: Fundamental requirements of mechanism design and assemble for clutch system in automobiles
+  * Supervisor: SKC Company R and D team
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Internship at Armita Company
+  * Armita Company
+  * Duties includes: Design and manufacture Hydraulic and pneumatic systems
+  * Supervisor: Mojtaba Mousavi
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020: Teaching assistance
+  * University of Tehran
+  * Duties included: Teaching basic concepts of physics at a university and designing and solving sample questions in class
+  * Supervisor: Professor 
   
 Skills
 ======
@@ -47,8 +47,10 @@ Skills
   * Abaqus
   * Altair Hypermesh
   * Ansys
-## Honors and Awards
+  * Proteus
 
+Honors and awards
+======
 * **Ranked 266th** among approximately 250,000 participants in the Iranian National University Entrance Exam for Undergraduate Studies (Top 0.1%).
 * **Ranked 58th** among approximately 10,000 participants in the Iranian National Graduate Entrance Exam for Mechanical Engineering (Top 0.6%).
   
