@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Mechanical Engineering, Politecnico di Milano, 2025 – Present
+* B.Sc. in Mechanical Engineering, University of Tehran, 2019 – 2024 (GPA: 17.08/20)
+* High School Diploma in Mathematics and Physics, Shahid Beheshti High School (National Organization for Development of Exceptional Talents - NODET), 2015 – 2019 (GPA: 19.63/20)
 
 Work experience
 ======
@@ -34,24 +34,23 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Persian - Native
+  * English - Second language
+* Programming
+  * Matlab
+  * Python
+  * Arduino
+* Engineering Tools
+  * Solidworks
+  * Comsol
+  * Abaqus
+  * Altair Hypermesh
+  * Ansys
+## Honors and Awards
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* **Ranked 266th** among approximately 250,000 participants in the Iranian National University Entrance Exam for Undergraduate Studies (Top 0.1%).
+* **Ranked 58th** among approximately 10,000 participants in the Iranian National Graduate Entrance Exam for Mechanical Engineering (Top 0.6%).
   
 Teaching
 ======
