@@ -53,4 +53,7 @@ html[data-theme="dark"] {
     --global-text-color-light           : #f3f3f3;
     --global-thead-color                : #{$background-lighter};
 }
-
+/* Hide the sitemap and follow feed section completely */
+.page__footer {
+  display: none !important;
+}
