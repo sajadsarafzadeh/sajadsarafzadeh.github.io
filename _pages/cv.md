@@ -78,7 +78,7 @@ Relevant Coursework
 <h3 style="color: #40E0D0; margin-bottom: 10px;">Master of Science (Politecnico di Milano)</h3>
 <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; color: white; font-family: sans-serif; margin-bottom: 30px;">
   
-  <p>Methods and technologies for feedback control systems ( 29/30 | A  )</p>
+  <p>Methods and technologies for feedback control systems ( 29/30 | A+  )</p>
   <div style="background-color: #333; border-radius: 5px; margin-bottom: 15px;">
     <div style="background-color: #40E0D0; width: 0%; height: 8px; border-radius: 5px;"></div>
   </div>
