@@ -34,7 +34,7 @@ Work experience
 
 * Fall 2020: Teaching assistance
   * Location: University of Tehran
-  * Duties included: Teaching basic concepts of physics at a university and designing and solving sample questions in class
+  * Duties included: Teaching basic concepts of physics, designing and solving sample questions in class
   * Supervisor: Dr. Maryam Zoghi
   
 Skills
