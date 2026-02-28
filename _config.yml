@@ -23,7 +23,7 @@ repository               : "sajadsarafzadeh/sajadsarafzadeh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "/images/profile.png"
   name             : "Sajad Sarafzadeh"
   pronouns         : "he/him"  
   bio              : "MSc Student in Mechanical Engineering at Politecnico di Milano"
