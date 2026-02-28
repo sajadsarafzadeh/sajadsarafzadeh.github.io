@@ -15,7 +15,8 @@ redirect_from:
 {% include base_path %}
 
 
-
+Education
+------
 Education
 ======
 * M.Sc. in Mechanical Engineering, Politecnico di Milano, 2025 – Present
@@ -24,7 +25,8 @@ Education
 
 <br>
 ---
-
+Work experience
+------
 Work experience
 ======
 * Summer 2023: Internship
