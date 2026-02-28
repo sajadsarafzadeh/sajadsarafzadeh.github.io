@@ -80,7 +80,7 @@ Relevant Coursework
   
   <p>Methods and technologies for feedback control systems ( 29/30 | A+  )</p>
   <div style="background-color: #333; border-radius: 5px; margin-bottom: 15px;">
-    <div style="background-color: #40E0D0; width: 0%; height: 8px; border-radius: 5px;"></div>
+    <div style="background-color: #40E0D0; width: 96.7%; height: 8px; border-radius: 5px;"></div>
   </div>
 
  
@@ -88,29 +88,37 @@ Relevant Coursework
 <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; color: white; font-family: sans-serif;">
 <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; color: white; font-family: sans-serif;">
   
-  <p>Design of machine Elements 1 ( 17.7/20 | A )</p>
+  <p>Design of Machine Elements 1 ( 17.7/20 | A )</p>
   <div style="background-color: #333; border-radius: 5px; margin-bottom: 15px;">
-    <div style="background-color: #40E0D0; width: 93%; height: 8px; border-radius: 5px;"></div>
+    <div style="background-color: #40E0D0; width: 88.5%; height: 8px; border-radius: 5px;"></div>
   </div>
 
   <p>Mechanics of Materials 1 ( 17.5/20 | A )</p>
   <div style="background-color: #333; border-radius: 5px; margin-bottom: 15px;">
-    <div style="background-color: #40E0D0; width: 95%; height: 8px; border-radius: 5px;"></div>
+    <div style="background-color: #40E0D0; width: 87.5%; height: 8px; border-radius: 5px;"></div>
   </div>
 
   <p>Mechanics of Materials 2 ( 20/20 | A+ )</p>
   <div style="background-color: #333; border-radius: 5px; margin-bottom: 15px;">
-    <div style="background-color: #40E0D0; width: 97%; height: 8px; border-radius: 5px;"></div>
+    <div style="background-color: #40E0D0; width: 100%; height: 8px; border-radius: 5px;"></div>
   </div>
 
   <p>Electronics ( 20/20 | A+ )</p>
   <div style="background-color: #333; border-radius: 5px; margin-bottom: 15px;">
-    <div style="background-color: #40E0D0; width: 88%; height: 8px; border-radius: 5px;"></div>
+    <div style="background-color: #40E0D0; width: 100%; height: 8px; border-radius: 5px;"></div>
   </div>
 
-  <p>Design of machine Elements 2 ( 19.3/20 | A+ )</p>
+  <p>Design of Machine Elements 2 ( 19.3/20 | A+ )</p>
   <div style="background-color: #333; border-radius: 5px;">
-    <div style="background-color: #40E0D0; width: 95%; height: 8px; border-radius: 5px;"></div>
+    <div style="background-color: #40E0D0; width: 96.5%; height: 8px; border-radius: 5px;"></div>
   </div>
-
+  
+  <p>Electrical Machines and Circuits ( 18.5/20 | A )</p>
+  <div style="background-color: #333; border-radius: 5px;">
+    <div style="background-color: #40E0D0; width: 92.5%; height: 8px; border-radius: 5px;"></div>
+  </div>
+  <p>MEMS ( 20/20 | A+ )</p>
+  <div style="background-color: #333; border-radius: 5px;">
+    <div style="background-color: #40E0D0; width: 100%; height: 8px; border-radius: 5px;"></div>
+  </div>
 </div>
