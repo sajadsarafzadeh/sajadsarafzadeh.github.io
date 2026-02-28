@@ -18,11 +18,9 @@ Education
 * High School Diploma in Mathematics and Physics, Shahid Beheshti High School (National Organization for Development of Exceptional Talents - NODET), 2015 – 2019 (GPA: 19.63/20)
 
 <br>
----
+
 Work experience
 ------
-Work experience
-======
 * Summer 2023: Internship
   * Location: _S.K.C Company
   * Duties included: Fundamental requirements of mechanism design and assemble for clutch system in automobiles
@@ -39,11 +37,9 @@ Work experience
   * Supervisor: Dr. Maryam Zoghi
 
 <br>
----
+
 Skills
 ------
-Skills
-======
 * Languages
   * Persian - Native
   * English - Second language
@@ -64,11 +60,9 @@ Skills
   * MSC Adams
 
 <br>
----
+
 Honors and Awards
 ------
-Honors and Awards
-======
 * **Ranked 266th** among approximately 250,000 participants in the Iranian National University Entrance Exam for Undergraduate Studies (Top 0.1%).
 * **Ranked 58th** among approximately 10,000 participants in the Iranian National Graduate Entrance Exam for Mechanical Engineering (Top 0.6%).
 
@@ -77,8 +71,6 @@ Honors and Awards
 
 Relevant Coursework
 ------
-Relevant Coursework
-======
 
 <div style="background-color: #1a1a1a; padding: 25px; border-radius: 12px; color: white; font-family: sans-serif; margin-bottom: 30px; border: 1px solid #333;">
   <h3 style="color: #40E0D0; margin-top: 0; margin-bottom: 20px; border-bottom: 1px solid #333; padding-bottom: 10px;">Master of Science (Politecnico di Milano)</h3>
