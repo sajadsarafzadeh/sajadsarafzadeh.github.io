@@ -23,17 +23,17 @@ Education
 Work experience
 ======
 * Summer 2023: Internship
-  * S.K.C Company
+  * Location: _S.K.C Company
   * Duties included: Fundamental requirements of mechanism design and assemble for clutch system in automobiles
   * Supervisor: SKC Company R and D team
 
-* Summer 2022: Internship at Armita Company
-  * Armita Company
+* Summer 2022: Internship 
+  * Location: Armita Company
   * Duties includes: Design and manufacture Hydraulic and pneumatic systems
   * Supervisor: Mojtaba Mousavi
 
 * Fall 2020: Teaching assistance
-  * University of Tehran
+  * Location: University of Tehran
   * Duties included: Teaching basic concepts of physics at a university and designing and solving sample questions in class
   * Supervisor: Dr. Maryam Zoghi
   
@@ -83,10 +83,7 @@ Relevant Coursework
     <div style="background-color: #40E0D0; width: 0%; height: 8px; border-radius: 5px;"></div>
   </div>
 
-  
-  <p style="font-size: 0.8em; color: #888; margin-top: 10px;">*Currently attending courses for the 2025-2026 academic year.</p>
-</div>
-
+ 
 <h3 style="color: #40E0D0; margin-bottom: 10px;">Bachelor of Science (University of Tehran)</h3>
 <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; color: white; font-family: sans-serif;">
 <div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; color: white; font-family: sans-serif;">
