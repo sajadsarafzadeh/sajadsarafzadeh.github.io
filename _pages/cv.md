@@ -5,8 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
 
+---
+<br>
+---
+<br>
 
 
 
@@ -19,6 +22,10 @@ Education
 * M.Sc. in Mechanical Engineering, Politecnico di Milano, 2025 – Present
 * B.Sc. in Mechanical Engineering, University of Tehran, 2019 – 2024 (GPA: 17.08/20)
 * High School Diploma in Mathematics and Physics, Shahid Beheshti High School (National Organization for Development of Exceptional Talents - NODET), 2015 – 2019 (GPA: 19.63/20)
+
+<br>
+---
+<br>
 
 Work experience
 ======
@@ -36,7 +43,11 @@ Work experience
   * Location: University of Tehran
   * Duties included: Teaching basic concepts of physics, designing and solving sample questions in class
   * Supervisor: Dr. Maryam Zoghi
-  
+
+<br>
+---
+<br>
+
 Skills
 ======
 * Languages
@@ -58,17 +69,29 @@ Skills
   * Proteus
   * MSC Adams
 
+<br>
+---
+<br>
+
 Honors and awards
 ======
 * **Ranked 266th** among approximately 250,000 participants in the Iranian National University Entrance Exam for Undergraduate Studies (Top 0.1%).
 * **Ranked 58th** among approximately 10,000 participants in the Iranian National Graduate Entrance Exam for Mechanical Engineering (Top 0.6%).
-  
+
+<br>
+---
+<br>
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<br>
+---
+<br>
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
