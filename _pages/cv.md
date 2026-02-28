@@ -67,3 +67,48 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Relevant Coursework
+======
+<h3 style="color: #40E0D0; margin-bottom: 10px;">Master of Science (Politecnico di Milano)</h3>
+<div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; color: white; font-family: sans-serif; margin-bottom: 30px;">
+  
+  <p>Methods and technologies for feedback control systems ( 29/30 | A  )</p>
+  <div style="background-color: #333; border-radius: 5px; margin-bottom: 15px;">
+    <div style="background-color: #40E0D0; width: 0%; height: 8px; border-radius: 5px;"></div>
+  </div>
+
+  
+  <p style="font-size: 0.8em; color: #888; margin-top: 10px;">*Currently attending courses for the 2025-2026 academic year.</p>
+</div>
+
+<h3 style="color: #40E0D0; margin-bottom: 10px;">Bachelor of Science (University of Tehran)</h3>
+<div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; color: white; font-family: sans-serif;">
+<div style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; color: white; font-family: sans-serif;">
+  
+  <p>Design of machine Elements 1 ( 17.7/20 | A )</p>
+  <div style="background-color: #333; border-radius: 5px; margin-bottom: 15px;">
+    <div style="background-color: #40E0D0; width: 93%; height: 8px; border-radius: 5px;"></div>
+  </div>
+
+  <p>Mechanics of Materials 1 ( 17.5/20 | A )</p>
+  <div style="background-color: #333; border-radius: 5px; margin-bottom: 15px;">
+    <div style="background-color: #40E0D0; width: 95%; height: 8px; border-radius: 5px;"></div>
+  </div>
+
+  <p>Mechanics of Materials 2 ( 20/20 | A+ )</p>
+  <div style="background-color: #333; border-radius: 5px; margin-bottom: 15px;">
+    <div style="background-color: #40E0D0; width: 97%; height: 8px; border-radius: 5px;"></div>
+  </div>
+
+  <p>Electronics ( 20/20 | A+ )</p>
+  <div style="background-color: #333; border-radius: 5px; margin-bottom: 15px;">
+    <div style="background-color: #40E0D0; width: 88%; height: 8px; border-radius: 5px;"></div>
+  </div>
+
+  <p>Design of machine Elements 2 ( 19.3/20 | A+ )</p>
+  <div style="background-color: #333; border-radius: 5px;">
+    <div style="background-color: #40E0D0; width: 95%; height: 8px; border-radius: 5px;"></div>
+  </div>
+
+</div>
