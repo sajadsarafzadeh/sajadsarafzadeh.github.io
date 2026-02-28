@@ -1,24 +1,16 @@
 ---
-layout: archive
+layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 
----
-<br>
----
-
-
-
 {% include base_path %}
 
 
 Education
 ------
-Education
-======
 * M.Sc. in Mechanical Engineering, Politecnico di Milano, 2025 – Present
 * B.Sc. in Mechanical Engineering, University of Tehran, 2019 – 2024 (GPA: 17.08/20)
 * High School Diploma in Mathematics and Physics, Shahid Beheshti High School (National Organization for Development of Exceptional Talents - NODET), 2015 – 2019 (GPA: 19.63/20)
