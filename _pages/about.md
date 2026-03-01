@@ -10,8 +10,7 @@ redirect_from:
 About me
 ------
 
-I am a Master’s student in Mechanical Engineering at Politecnico di Milano, specializing in Mechatronics and Robotics, where I explore the integration of mechanical design, electronics, and advanced control systems. My academic journey is driven by a strong interest in automation, intelligent machines, and innovative engineering solutions.
-I’m an active, hardworking, and highly motivated student who enjoys continuous learning and tackling new challenges. Beyond my studies, I’m passionate about sports and love spending my free time staying active and trying different athletic activities.
+I am a Master’s student in Mechanical Engineering at Politecnico di Milano, specializing in Mechatronics and Robotics. My research interests lie at the intersection of mechanical design, electronics, and advanced control systems – with a focus on automation and intelligent machines. I am an enthusiastic and dedicated learner, always eager to tackle new challenges. Outside the lab, I enjoy staying active through sports and outdoor activities.
 
 ## Education
 
@@ -19,14 +18,9 @@ I’m an active, hardworking, and highly motivated student who enjoys continuous
 * **B.Sc. in Mechanical Engineering**, University of Tehran, 2019 – 2024 (GPA: 17.08/20)
 * **High School Diploma in Mathematics and Physics**, Shahid Beheshti High School (National Organization for Development of Exceptional Talents - NODET), 2015 – 2019 (GPA: 19.63/20)
 
+## Research interests
 
-Getting started
-======
-
-
-For more info
-------
-
-A data-driven personal website
-======
+* **Mechatronic Systems**
+* **Robotics**
+* **Automation**
 
