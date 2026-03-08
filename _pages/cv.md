@@ -69,12 +69,13 @@ Relevant Coursework
 * **Methods and Technologies for Feedback Control Systems** (Grade: 29/30 | A+)
 
 ### Bachelor of Science (University of Tehran)
-* **MEMS, Electronics, & Mechanics of Materials 2** (Grade: 20/20 | A+)
+* **Electronics** (Grade: 20/20 | A+)
+* **MEMS** (Grade: 20/20 | A+)
+* **Mechanics of Materials 2** (Grade: 20/20 | A+)
 * **Design of Machine Elements 2** (Grade: 19.3/20 | A+)
 * **Electrical Machines and Circuits** (Grade: 18.5/20 | A)
 * **Design of Machine Elements 1** (Grade: 17.7/20 | A)
 * **Mechanics of Materials 1** (Grade: 17.5/20 | A)
-* **Automatic Control** (Grade: 18.58/20 | A+)
-* **Measurement Systems** (Grade: 19.47/20 | A+)
+
 
 
