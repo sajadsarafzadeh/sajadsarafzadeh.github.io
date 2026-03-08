@@ -67,7 +67,6 @@ Relevant Coursework
 ------
 ### Master of Science (Politecnico di Milano)
 * **Methods and Technologies for Feedback Control Systems** (Grade: 29/30 | A+)
-* **Advanced Robotics and Mechatronics** (Ongoing)
 
 ### Bachelor of Science (University of Tehran)
 * **MEMS, Electronics, & Mechanics of Materials 2** (Grade: 20/20 | A+)
