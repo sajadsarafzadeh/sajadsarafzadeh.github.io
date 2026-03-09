@@ -62,7 +62,19 @@ Honors and Awards
 * **Ranked 266th** among approximately 250,000 participants in the Iranian National University Entrance Exam for Undergraduate Studies (Top 0.1%).
 * **Ranked 58th** among approximately 10,000 participants in the Iranian National Graduate Entrance Exam for Mechanical Engineering (Top 0.6%).
 
+Relevant Coursework
+------
+### Master of Science (Politecnico di Milano)
+* Methods and Technologies for Feedback Control Systems (Grade: 29/30 | A+)
 
+### Bachelor of Science (University of Tehran)
+* Electronics (Grade: 20/20 | A+)
+* MEMS (Grade: 20/20 | A+)
+* Mechanics of Materials 2 (Grade: 20/20 | A+)
+* Design of Machine Elements 2 (Grade: 19.3/20 | A+)
+* Electrical Machines and Circuits (Grade: 18.5/20 | A)
+* Design of Machine Elements 1 (Grade: 17.7/20 | A)
+* Mechanics of Materials 1 (Grade: 17.5/20 | A)
 
 
 
