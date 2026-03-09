@@ -65,6 +65,7 @@ Honors and Awards
 Relevant Coursework
 ------
 ### Master of Science (Politecnico di Milano)
+
 * Methods and Technologies for Feedback Control Systems (Grade: 29/30 | A+)
 
 ### Bachelor of Science (University of Tehran)
