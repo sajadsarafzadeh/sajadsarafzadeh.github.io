@@ -12,6 +12,7 @@ Engineering Projects
 
 ### [Dynamic System Simulation (ADAMS & MATLAB)](https://github.com/sajadsarafzadeh/Dynamics-Project---Analysis-of-a-6-rod-mechanism)
 <img src="/images/schematic1.jpg" alt="ADAMS Simulation Schematic" style="width: 70%; margin-top: 25px; margin-bottom: 25px; display: block;">
+<img src="/images/schematic1-2.png" alt="ADAMS Simulation Result" style="width: 60%; margin-bottom: 25px; display: block; border-radius: 5px;">
 * Developed a high-fidelity multibody dynamics model to analyze mechanical system responses.
 * Utilized custom **MATLAB** scripts to validate simulation results against theoretical data.
 * Full project report and source code are available in the GitHub repository linked above.
