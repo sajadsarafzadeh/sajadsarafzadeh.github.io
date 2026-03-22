@@ -39,6 +39,16 @@ author_profile: true
       </div>
     </div>
   </a>  
+
+  <a href="https://github.com/sajadsarafzadeh/Electrostatic-Excitation-of-a-Microbeam" target="_blank" style="text-decoration: none; width: calc(33.333% - 14px); min-width: 250px;">
+    <div style="background: #1a1a1a; border-radius: 15px; overflow: hidden; border: 1px solid #333;">
+      <img src="/images/beamschematic.png" style="width: 100%; height: 180px; object-fit: cover;" alt="Electrostartic Excitation of a Microbeam">
+      <div style="padding: 15px;">
+        <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Electrostartic Excitation of a Microbeam</h4>
+        <span style="color: #888; font-size: 0.9em;">MEMS</span>
+      </div>
+    </div>
+  </a>  
   
   <a href="https://github.com/sajadsarafzadeh/hub-carrier-optimization" target="_blank" style="text-decoration: none; width: calc(33.333% - 14px); min-width: 250px;">
     <div style="background: #1a1a1a; border-radius: 15px; overflow: hidden; border: 1px solid #333;">
