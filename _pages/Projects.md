@@ -5,24 +5,34 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
+<div style="display: flex; gap: 20px; margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 15px; font-family: sans-serif;">
+  <span style="color: #40E0D0; border-bottom: 2px solid #40E0D0; padding-bottom: 13px; cursor: pointer;">All</span>
+  <span style="color: #888; cursor: pointer;">Robotics</span>
+  <span style="color: #888; cursor: pointer;">Mechatronics</span>
+  <span style="color: #888; cursor: pointer;">Control</span>
+  <span style="color: #888; cursor: pointer;">Dynamics</span>
+</div>
 
-Engineering Projects
-------
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
 
-### [Dynamic System Simulation (ADAMS & MATLAB)](https://github.com/sajadsarafzadeh/Dynamics-Project---Analysis-of-a-6-rod-mechanism)
-<img src="/images/schematic1.jpg" alt="ADAMS Simulation Schematic" style="width: 70%; margin-top: 25px; margin-bottom: 25px; display: block;">
-<img src="/images/schematic1-2.png" alt="ADAMS Simulation Result" style="width: 60%; margin-bottom: 25px; display: block; border-radius: 5px;">
-* Developed a high-fidelity multibody dynamics model to analyze mechanical system responses.
-* Utilized custom **MATLAB** scripts to validate simulation results against theoretical data.
-* Full project report and source code are available in the GitHub repository linked above.
+  <a href="https://github.com/sajadsarafzadeh/Dynamics-Project---Analysis-of-a-6-rod-mechanism" target="_blank" style="text-decoration: none; width: calc(33.333% - 14px); min-width: 250px;">
+    <div style="background: #1a1a1a; border-radius: 15px; overflow: hidden; border: 1px solid #333; transition: transform 0.2s;">
+      <img src="/images/schematic1-2.png" style="width: 100%; height: 180px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Dynamic System Simulation</h4>
+        <span style="color: #888; font-size: 0.9em;">Dynamics & MATLAB</span>
+      </div>
+    </div>
+  </a>
 
----
+  <a href="https://github.com/sajadsarafzadeh/hub-carrier-optimization" target="_blank" style="text-decoration: none; width: calc(33.333% - 14px); min-width: 250px;">
+    <div style="background: #1a1a1a; border-radius: 15px; overflow: hidden; border: 1px solid #333;">
+      <img src="/images/hub-carrier-schematic.png" style="width: 100%; height: 180px; object-fit: cover;">
+      <div style="padding: 15px;">
+        <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Hub Carrier Optimization</h4>
+        <span style="color: #888; font-size: 0.9em;">Mechatronics</span>
+      </div>
+    </div>
+  </a>
 
-### [Hub Carrier Topology Optimization](https://github.com/sajadsarafzadeh/topology-optimization)
-* Performed structural optimization using **Altair HyperMesh** to achieve weight reduction.
-* Defined load cases and manufacturing constraints for automotive component integrity.
-* Click the title to view the optimization results and CAD files on GitHub.
-
----
-
+</div>
