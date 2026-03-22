@@ -15,7 +15,7 @@ author_profile: true
       <img src="/images/schematic1-2.png" style="width: 100%; height: 180px; object-fit: cover;">
       <div style="padding: 15px;">
         <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Dynamic System Simulation</h4>
-        <span style="color: #888; font-size: 0.9em;">Dynamics & MATLAB</span>
+        <span style="color: #888; font-size: 0.9em;">Dynamics of Machinery</span>
       </div>
     </div>
   </a>
