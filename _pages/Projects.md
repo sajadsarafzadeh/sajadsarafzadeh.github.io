@@ -25,7 +25,7 @@ author_profile: true
       <img src="/images/cam.jpg" style="width: 100%; height: 180px; object-fit: cover;" alt="Ventilator Cam Design">
       <div style="padding: 15px;">
         <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Medical Ventilator Cam</h4>
-        <span style="color: #888; font-size: 0.9em;">Dynamics & Mechatronics</span>
+        <span style="color: #888; font-size: 0.9em;">Dynamics of Machinery</span>
       </div>
     </div>
   </a>  
