@@ -6,11 +6,6 @@ author_profile: true
 ---
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; border-bottom: 1px solid #333; padding-bottom: 15px; font-family: sans-serif;">
-  <span style="color: #40E0D0; border-bottom: 2px solid #40E0D0; padding-bottom: 13px; cursor: pointer;">All</span>
-  <span style="color: #888; cursor: pointer;">Robotics</span>
-  <span style="color: #888; cursor: pointer;">Mechatronics</span>
-  <span style="color: #888; cursor: pointer;">Control</span>
-  <span style="color: #888; cursor: pointer;">Dynamics</span>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
