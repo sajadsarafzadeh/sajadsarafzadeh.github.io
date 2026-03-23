@@ -44,7 +44,7 @@ author_profile: true
     <div style="background: #1a1a1a; border-radius: 15px; overflow: hidden; border: 1px solid #333;">
       <img src="/images/beamschematic.png" style="width: 100%; height: 180px; object-fit: cover;" alt="Electrostartic Excitation of a Microbeam">
       <div style="padding: 15px;">
-        <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Electrostartic Excitation of a Microbeam</h4>
+        <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Electrostartic Excitation</h4>
         <span style="color: #888; font-size: 0.9em;">MEMS</span>
       </div>
     </div>
@@ -54,7 +54,7 @@ author_profile: true
     <div style="background: #1a1a1a; border-radius: 15px; overflow: hidden; border: 1px solid #333;">
       <img src="/images/thermodynamicschematic.jpg" style="width: 100%; height: 180px; object-fit: cover;" alt="Gas Turbine Cycle Simulation & Optimization">
       <div style="padding: 15px;">
-        <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Gas Turbine Cycle Simulation & Optimization</h4>
+        <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Gas Turbine Cycle</h4>
         <span style="color: #888; font-size: 0.9em;">Thermodynamics</span>
       </div>
     </div>
