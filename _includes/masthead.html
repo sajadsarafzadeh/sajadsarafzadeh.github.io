@@ -9,17 +9,15 @@
             <a href="{{ base_path }}/">{{ site.title }}</a>
           </li>
           {% for link in site.data.navigation.main %}
+            {% if link.url contains 'http' %}
+              {% assign domain = '' %}
+            {% else %}
+              {% assign domain = base_path %}
+            {% endif %}
             <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}">
-              <a href="{{ base_path }}{{ link.url }}">{{ link.title }}</a>
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
-
-          <li class="masthead__menu-item persist tail" style="margin-left: 20px; border-left: 1px solid #444; padding-left: 20px;">
-            <span style="font-size: 0.85em;">
-              <a href="/" style="color: {% if page.url contains '/it/' %}#888{% else %}#40E0D0{% endif %}; font-weight: bold;">EN</a> 
-              <span style="color: #444; margin: 0 5px;">|</span>
-              <a href="/it/" style="color: {% if page.url contains '/it/' %}#40E0D0{% else %}#888{% endif %}; font-weight: bold;">IT</a>
-            </span>
           </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
