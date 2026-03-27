@@ -74,7 +74,7 @@ author_profile: true
     <div style="background: #1a1a1a; border-radius: 15px; overflow: hidden; border: 1px solid #333;">
       <img src="/images/measurementsysschematic.jpg" style="width: 100%; height: 180px; object-fit: cover;" alt="Temperature Measurement">
       <div style="padding: 15px;">
-        <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Measurement systems</h4>
+        <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Temperature Measurement</h4>
         <span style="color: #888; font-size: 0.9em;">Measurement systems</span>
       </div>
     </div>
