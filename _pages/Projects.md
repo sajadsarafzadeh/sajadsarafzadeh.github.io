@@ -122,7 +122,7 @@ author_profile: true
 
    <a href="https://github.com/sajadsarafzadeh/Face-Mask-Detection" style="text-decoration: none; width: calc(33.333% - 14px); min-width: 250px;">
     <div style="background: #1a1a1a; border-radius: 15px; overflow: hidden; border: 1px solid #333;">
-      <img src="/images/img2.jpg" style="width: 100%; height: 180px; object-fit: cover;" alt="Face mask detection">
+      <img src="/images/facemaskdetect.jpg" style="width: 100%; height: 180px; object-fit: cover;" alt="Face mask detection">
       <div style="padding: 15px;">
         <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Face Mask Detection</h4>
         <span style="color: #888; font-size: 0.9em;">Robotics</span>
