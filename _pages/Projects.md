@@ -159,4 +159,14 @@ author_profile: true
       </div>
     </div>
   </a>
+
+ <a href="https://github.com/sajadsarafzadeh/truss-topology-optimization" style="text-decoration: none; width: calc(33.333% - 14px); min-width: 250px;">
+    <div style="background: #1a1a1a; border-radius: 15px; overflow: hidden; border: 1px solid #333;">
+      <img src="/images/truss_optimization.jpg" style="width: 100%; height: 180px; object-fit: cover;" alt="Topology Optimization">
+      <div style="padding: 15px;">
+        <h4 style="color: #fff; margin: 0 0 5px 0; font-size: 1.1em;">Truss Topology Optimization</h4>
+        <span style="color: #888; font-size: 0.9em;">Topology Optimization</span>
+      </div>
+    </div>
+  </a>
 </div>
