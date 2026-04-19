@@ -140,17 +140,21 @@
    Author profile and links
    ========================================================================== */
 .author__avatar {
-  display: block;
-  width: 175px;
-  height: 175px;
-  margin: 0 auto 15px auto;
+  display: table-cell;
+  vertical-align: top;
+  width: 36px;
+  // set width only, for non-square avatars
+  // height: 36px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
 
   img {
-    width: 175px;
-    height: 175px;
-    object-fit: cover;
-    border-radius: 20px;
-    display: block;
+    max-width: 175px;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
