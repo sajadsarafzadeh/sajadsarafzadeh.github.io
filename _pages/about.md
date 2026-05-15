@@ -22,5 +22,4 @@ I am a Master’s student in Mechanical Engineering at Politecnico di Milano, sp
 
 * **Mechatronic Systems**
 * **Robotics**
-* **Automation**
-
+* **Mechanical Design**
